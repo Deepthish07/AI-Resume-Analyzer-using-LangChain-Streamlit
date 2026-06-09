@@ -1,6 +1,6 @@
-# Resume Analyzer Bot
+# AI-Resume-Analyzer-using-LangChain-Streamlit
 
-A Streamlit app that loads a PDF resume, creates embeddings, and answers questions using either a local Ollama model or an online HuggingFace endpoint.
+An intelligent resume analyzer built with LangChain, FAISS, Streamlit, and Ollama that allows users to upload resumes and interact with them through natural language questions.
 
 ## Install
 
