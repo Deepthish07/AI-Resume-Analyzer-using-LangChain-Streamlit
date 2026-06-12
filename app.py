@@ -71,6 +71,9 @@ if uploaded_file:
         st.error("❌ No text could be extracted from this PDF.")
         st.stop()
 
+    page_count = len(pdf.pages)
+    st.info(f"📄 Resume loaded with {page_count} page{'s' if page_count != 1 else ''}.")
+
     # Split text
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,
