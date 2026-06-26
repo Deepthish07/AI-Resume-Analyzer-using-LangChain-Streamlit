@@ -28,6 +28,6 @@ ollama pull llama2-mini
 - If deploying to Streamlit Cloud, make sure `requirements.txt` is included in the repo.
 
 ## License 
-Author - Deepthish D 
-E-Mail - deepthishraj@gmail.com
-Linked In - www.linkedin.com/in/deepthish-d-422181242
+- Author - Deepthish D 
+- E-Mail - deepthishraj@gmail.com
+- Linked In - www.linkedin.com/in/deepthish-d-422181242
