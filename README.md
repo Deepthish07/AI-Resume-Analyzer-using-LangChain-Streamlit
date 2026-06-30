@@ -151,10 +151,8 @@ This project demonstrates:
 
 **Deepthish D**
 
-📧 Email: [deepthishraj@gmail.com](mailto:deepthishraj@gmail.com)
+📧 Email: [deepthishraj@gmail.com]
 
 💼 LinkedIn: https://www.linkedin.com/in/deepthish-d-422181242
-
-🐙 GitHub: https://github.com/Deepthish07
 
 
