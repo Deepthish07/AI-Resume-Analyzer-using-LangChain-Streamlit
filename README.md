@@ -157,8 +157,4 @@ This project demonstrates:
 
 🐙 GitHub: https://github.com/Deepthish07
 
----
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a **⭐ Star** on GitHub. It helps others discover the project and supports future development.
